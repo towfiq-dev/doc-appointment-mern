@@ -80,7 +80,6 @@ const NavMenu = () => {
             Book A Appointment
           </a>
         </div>
-
       </div>
     </div>
   );
